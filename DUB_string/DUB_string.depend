@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614689624 source:h:\c_coding\dub_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
